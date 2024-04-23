@@ -1,5 +1,5 @@
 # Capstone Project
 
-Capstone-backend Link => **
+Backend Github Link => **https://github.com/Vaniarumugam17/backend.git**
 
-Frontend deploy Link => **
+Frontend deployment Link => **
