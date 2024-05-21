@@ -122,7 +122,7 @@ function App() {
     let musicObject = musicAPI[number];
     currentAudio.current.src = musicObject.songSrc;
     currentAudio.current.play();
-    setCurrentMusicDetails({
+    setCurrentMusicDetails({   
       songName: musicObject.songName,
       songArtist: musicObject.songArtist,
       songSrc: musicObject.songSrc,
